@@ -7,5 +7,6 @@ public class A {
 public void atest() {
 	System.out.println("hi");
 	System.out.println("hello");
+	System.out.println("hyugy");
 }
 }
