@@ -9,5 +9,6 @@ public void atest() {
 	System.out.println("hello");
 	System.out.println("hyugy");
 	System.out.println("1234");
+	System.out.println("sdfgh");
 }
 }
